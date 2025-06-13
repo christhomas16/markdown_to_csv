@@ -1,0 +1,9 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore all markdown files
+*.md
+*.markdown
+
+# Keep the README.md file
+!README.md 
