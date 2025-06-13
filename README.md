@@ -22,7 +22,7 @@ A simple and efficient Python tool that converts markdown tables to CSV format. 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/markdown_to_csv.git
+git clone https://github.com/christhomas16/markdown_to_csv
 cd markdown_to_csv
 ```
 
